@@ -1,0 +1,1 @@
+Dice Game is a simple and fun website where two dice are rolled each time the page is refreshed. The dice generate random numbers between 1 and 6, and the player with the higher number wins. It's a quick, engaging game of chance that's easy to play.
